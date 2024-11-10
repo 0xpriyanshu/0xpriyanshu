@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about Machine Learning, AI, and Deep Learning. Here you'll find some of my projects and contributions in these areas. Feel free to explore and connect.
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://0xpriyanshu.github.io/0xpriyanshu/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://0xpriyanshu.github.io)
 
 ## 🚀 Featured Projects
 
